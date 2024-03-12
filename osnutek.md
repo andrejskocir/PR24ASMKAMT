@@ -1,8 +1,8 @@
 # OLIMPIJSKE MEDALJE
 
-### Avtorji: Andrej Skočir, Anton Martin Turk, Miha Kavs
+Avtorji: Andrej Skočir, Anton Martin Turk, Miha Kavs
 
-### Šolsko leto: 2023/24
+Šolsko leto: 2023/24
 
 ## Opis podatkov
 
