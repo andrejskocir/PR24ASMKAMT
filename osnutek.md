@@ -35,15 +35,13 @@ Dobiti želimo obširno znanje zbirke, zato bomo analizirali:
 1. Koliko različnih disciplin je bilo skozi leta
 2. Število tekmovanj glede na disciplino
 3. Najuspešnejše države v ekipnih tekmovanjih
-4. Najuspešnejši športnik (procentualno glede na št. tekmovanje, število medalj..)
-5. Najuspešnejši športnik (absolutno)
-6. Športniki, ki so tekmovali največkrat
-7. Športniki, ki so tekmovali v različnih disciplinah
-8. Katere discipline imajo največ tekmovanj
-9. Koliko medalj je na Olimpijskih igrah prejela Slovenija (vključena je Jugoslavija)
-10. Kateri so najuspešnejši reprezentanti Slovenije (vključena je Jugoslavija)
-11. Kakšno je razmerje med prejetimi medaljami na zimskih in poletnih OI za Slovenijo (vključena je Jugoslavija)
-12. Katera država je najuspešnejša in katera najmanj v atletiki
-13. Ali obstaja povezava med gostiteljstvom olimpijskih iger in uspehom gostiteljske države?
-14. Katera država je osvojila največ zlatih medalj na posameznih olimpijskih igrah?
-
+4. Najuspešnejši športnik (absolutno)
+5. Športniki, ki so tekmovali največkrat
+6. Športniki, ki so tekmovali v različnih disciplinah
+7. Katere discipline imajo največ tekmovanj
+8. Koliko medalj je na Olimpijskih igrah prejela Slovenija (vključena je Jugoslavija)
+9. Kateri so najuspešnejši reprezentanti Slovenije (vključena je Jugoslavija)
+10. Kakšno je razmerje med prejetimi medaljami na zimskih in poletnih OI za Slovenijo (vključena je Jugoslavija)
+11. Katera država je najuspešnejša in katera najmanj v atletiki
+12. Ali obstaja povezava med gostiteljstvom olimpijskih iger in uspehom gostiteljske države?
+13. Katera država je osvojila največ zlatih medalj na posameznih olimpijskih igrah?
