@@ -25,6 +25,8 @@ Ugotovitev prevlade ZDA na olimpijskih igrah in presenečenja v uspehu nekaterih
 
 Kar zadeva presenečenja, smo na podoben način analizirali število medalj za vsako državo. Ko smo primerjali število medalj, ki so jih prejele države, smo opazili, da so nekatere države, kot so Madžarska in Bolgarija, dosegle visoko število medalj, ki je bilo morda višje od pričakovanj. Nasprotno pa smo ugotovili, da so druge države, na primer Španija in Brazilija, dosegle bistveno manj medalj, kar je bilo morda manj pričakovano glede na njihov običajni uspeh na preteklih olimpijskih igrah. Te ugotovitve so lahko posledica različnih dejavnikov, vključno z naložbami v šport, uspešnostjo športnikov, pripravo ekip in druge pomembne dejavnike, ki vplivajo na izid tekmovanj na olimpijskih igrah.
 
+![Alt text](drzave.png)
 
+## Povzetek
 
-
+Podatki o podeljenih medaljah na olimpijskih igrah ponujajo obsežen vpogled v uspeh držav, discipline, športnikov in ekip. Kljub temu se soočamo z izzivi, kot so nekonsistentnost imen držav, kar otežuje primerjavo podatkov med različnimi viri, in raznolikost v zapisu zmagovalcev, kar otežuje analizo uspeha posameznih tekmovalcev. Kljub tem izzivom analiza podatkov razkriva prevlado ZDA na olimpijskih igrah ter presenetljive dosežke nekaterih držav, kar odraža kompleksnost in dinamiko športnih tekmovanj na najvišji ravni.
